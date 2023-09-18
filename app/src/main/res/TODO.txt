@@ -1,0 +1,24 @@
+
+--------------------------TODO LIST---------------------------
+ get max brightness of device
+ change slider names
+ reset to default values
+ Bigger start button ->enable
+ Add floats as parameters (low % limited)
+ Add custom curve for advanced users
+ Explain sliders with ? buttons
+ re Add Landscape mode with changes
+ Find better way to handle handlers than sleep and infinite loops
+ Smooth transition between opacities
+
+----------------------------LATER---------------------------
+ Add info of why, drawbacks and advantages and site research
+ Optimize + listeners instead of handlers
+
+
+----------------------------DONE---------------------------
+Add intensity and cutoff point as global variables and in main ui
+Add graph to show opacity change per brightness level
+ Store Global Data to disk
+  Fix Start switch
+   Add rotate listener for faster rotate or square size
