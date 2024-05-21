@@ -1,7 +1,7 @@
 # NoBlackSmear
 
 "Fix" for the Black Smear effect caused by green pixel charge delay on many Amoled panels at low brightness levels 
-The problem arrises from the small difference in "wake-up" delay from black that the different subpixels have and causes this deep purple hue at the edges of gray objects
+The problem arrises from the small difference in "wake-up" delay from black that the different subpixels have and causing a deep purple hue at the edges of gray objects
 <p align="center">
   <img src="https://github.com/cckats/NoBlackSmear/assets/39501174/1c667483-ccff-4680-8070-1ac123ee6803">
 </p>
